@@ -18,6 +18,14 @@ export class SidebardService {
         {
           titulo: 'Graficas',
           url: '/graficas'
+        },
+        {
+          titulo: 'Promesas',
+          url: '/promesas'
+        },
+        {
+          titulo: 'RXJS',
+          url: '/rxjs'
         }
 
       ]
